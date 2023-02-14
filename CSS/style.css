@@ -1,0 +1,185 @@
+@media screen and (max-width:768px){
+    .container_container_header{
+        background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625590594_22-kartinkin-com-p-zadnii-fon-dlya-logo-krasivie-foni-23.jpg);
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+        padding: 15px;
+        width: 910px;
+    }
+    .link {
+        color: #ffffff;
+        text-decoration: none;
+        margin: 9px;
+    }
+    .section-item {
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        align-items: center;
+        padding: 10px;
+    }
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.navbar{
+    display: flex;
+    font-size: 28px;
+}
+.img-fluid{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 20%;
+}
+.container_container_header{
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625590594_22-kartinkin-com-p-zadnii-fon-dlya-logo-krasivie-foni-23.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.link{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 25px;
+}
+.section-item{
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 24px;
+    text-align: center;
+    padding: 40px;
+}
+.trends{
+    display: flex;
+}
+.about{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;
+}
+.container-info{
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 24px;
+    padding: 75px;
+    text-align: center;
+    background-image: url(https://sun9-east.userapi.com/sun9-75/s/v1/ig2/yiabw9IggIOHIsn6_Fqzah1DekvUdLUNARYApLQs-Znh2wMaWwdXUHI_RNa0NTkUulAf5JHtrWchPnIOGju8oyBA.jpg?size=1440x800&quality=96&type=album);
+    color: #ffffff;
+    border-radius: 95px;
+    justify-content: center;
+
+}
+.container_nav{
+    padding: 50px;
+}
+body{
+    background: rgb(236,203,236);
+    background: radial-gradient(circle, rgba(236,203,236,1) 0%, rgba(164,71,170,1) 91%);
+    margin: auto;
+}
+.myButton{
+	box-shadow: 0px 10px 14px -7px #b556f5;
+	background:linear-gradient(to bottom, #b679e8 5%, #7217bd 100%);
+	background-color:#b679e8;
+	border-radius:10px;
+	border:1px solid #c584f3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9f45e8;
+}
+.myButton:hover{
+	background:linear-gradient(to bottom, #7217bd 5%, #b679e8 100%);
+	background-color:#7217bd;
+}
+.myButton:active{
+	position:relative;
+	top:1px;
+}
+.section-item:hover{
+    color: #7217bd;
+}
+.link:hover{
+    color: #d9cddf;
+    text-decoration: underline;
+}
+.section-item-reviews{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    align-items: center;
+    padding: 10px
+}
+.review img{
+    max-width: 150px;
+    max-height: 150px;
+}
+.reviews{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    align-items: center;
+    font-size: 28px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px 20px 0px;
+}
+h5{
+    font-size: 1.25rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.Icon{
+    max-width: 50px;
+    max-height: 50px;
+}
+.Icon-inst{
+    max-width: 55px;
+    max-height: 55px; 
+}
+section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+.section-item-reviews{
+    font-size: 18px;
+}

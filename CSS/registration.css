@@ -1,0 +1,99 @@
+
+@media screen and (max-width:768px){
+    .container_container_header{
+        background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625590594_22-kartinkin-com-p-zadnii-fon-dlya-logo-krasivie-foni-23.jpg);
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+        padding: 15px;
+        width: 910px;
+    }
+
+}    
+.img-fluid{
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+}
+.container_container_header{
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625590594_22-kartinkin-com-p-zadnii-fon-dlya-logo-krasivie-foni-23.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.link{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 25px;
+}
+.container_nav{
+    padding: 50px;
+}
+body{
+    background: rgb(236,203,236);
+    background: radial-gradient(circle, rgba(236,203,236,1) 0%, rgba(164,71,170,1) 91%);
+    margin: auto;
+}
+.link:hover{
+    color: #d9cddf;
+    text-decoration: underline;
+}
+.navbar{
+    display: flex;
+    font-size: 28px;
+}
+.registration{
+    padding: 15px;
+}
+.container{
+    padding: 35px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    align-items: center;
+    font-size: 28px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px 20px 0px;
+}
+h5{
+    font-size: 1.25rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.Icon{
+    max-width: 50px;
+    max-height: 50px;
+}
+.Icon-inst{
+    max-width: 55px;
+    max-height: 55px; 
+}
+.navbar{
+    display: flex;
+    font-size: 28px;
+    
+}
